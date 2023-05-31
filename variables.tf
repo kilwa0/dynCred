@@ -1,6 +1,6 @@
 variable "region" {
   type    = string
-  default = "ew-west-1"
+  default = "eu-west-1"
 }
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
